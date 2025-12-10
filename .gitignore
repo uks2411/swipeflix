@@ -1,0 +1,11 @@
+# node / next
+node_modules/
+.next/
+dist/
+.env.local
+.env
+.DS_Store
+.vscode/
+.vscode/*
+/npm-debug.log
+.idea/
